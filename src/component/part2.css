@@ -1,0 +1,61 @@
+.part2{
+    background-color: #42A175;
+    height: 300px;
+    color: white;
+}
+.decide{
+    display: flex;
+    align-items: center;
+}
+.num{
+    margin-right: 10px;
+    
+}
+.help{
+    text-align: center;
+     background-color: white;
+    margin-top:-76px;
+    border-radius: 10px;
+    padding-top: 40px;
+}
+.greybox{
+    background-color:#CDD8D3;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    color: #42A175;
+}
+.whitebox{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: honeydew;
+    border-radius: 10px;
+    color: #42A175;
+}
+.phar{
+    margin-left:30px;
+    color:gray;
+    font-size:24px;
+}
+.iconpad{
+    margin-right: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+ .b{
+     margin-left: 15px;
+ }
+ .num{
+    margin-top: -10px;
+ }
+.help{
+    margin-top: -50px;;
+}.phar{
+    font-size: 16px;
+}
+.dis{
+    font-size: 16px;
+}
+}

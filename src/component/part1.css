@@ -1,0 +1,67 @@
+.btn{
+    text-decoration: none;
+    border-radius: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: aliceblue;
+    background-color:#42A175 ;
+    margin-top: 10px;
+}
+.btn:hover{
+    transition: 0.1;
+    color:black;
+}
+.heading{
+    padding-top: 130px;
+}
+.haeding-par{
+    margin-top: 90px;
+    
+}
+.download
+{
+    width: 75%;
+}
+.box{
+height: 500px;
+width: 500px;
+float:right;
+
+}
+img{
+   height: 470px;
+width: 470px;
+float:right;
+border-radius: 10px;;
+
+
+
+}
+.quotecolor{
+    color:#42A175;
+}
+.quote{
+    height: 130px;
+width: 400px;
+border-radius: 10px;
+background-color: white;
+display: flex;
+align-items: center;
+margin-top: -65px;
+z-index: -344px;
+
+
+}
+.part1{
+    margin-bottom: 50px;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+ .heading{
+     padding-top: 30px;
+ }
+
+ 
+
+ 
+}

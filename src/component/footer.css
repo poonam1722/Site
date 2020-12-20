@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgb(41, 41, 41);
+    color: cornsilk;
+}
+.fh{
+    color: cornsilk;
+margin-bottom: 20px;}
+.list{
+    color: grey;
+
+}
+.list li{
+    padding-bottom: 15px;
+    margin-left: 5px;
+}
+.fl{
+    display: flex;
+
+}

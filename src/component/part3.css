@@ -1,0 +1,58 @@
+.btn{
+    text-decoration: none;
+    border-radius: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: aliceblue;
+    background-color:#42A175 ;
+    margin-top: 10px;
+}
+.log{
+    color:#42A175;
+    margin-top: 15px;
+}
+.btnlog{
+    display: flex;
+    align-items: center;
+}
+.right{
+    width: 700px;
+    height: 600px;
+    float: right;
+    margin-right: -180px;
+    margin-top: -25px;
+}
+.left{
+     margin-top: -50px;
+    height: 700px;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+ .right{
+     margin-top: 5px;
+     text-align: center;
+     margin-left: 50px;
+width: 400px;
+height: 500px;
+    float: none;
+ }
+ .btn{
+     margin-left: 15px;
+ }
+.imgri{
+    margin-left: -70px;
+}
+.imilef{
+    text-align: center;
+    float: none;
+    margin-left: 140px;
+}
+.logri{
+    margin-left:30px;
+}
+.btni{
+    margin-bottom: 30px;
+}
+ 
+}

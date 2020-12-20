@@ -1,0 +1,37 @@
+.part5{
+    background-color:#CDD8D3;
+    height: 250px;
+}
+.headd{
+    text-align: center;
+}
+.imgsize{
+    height:60px;
+    width: 180px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    background-color: white;
+    margin-top:10px;
+    text-align: center;
+    margin-left:-480px;
+}
+@media screen and (max-width: 768px) {
+.part5{
+    margin-top: -130px;
+    height:500px;
+}
+.five{
+    margin-left: 14px;
+}
+.wh{
+    
+    text-align:center;
+}
+.imgsize{
+
+  margin-right: 15%;
+  margin-left: 10%;
+
+}
+}
