@@ -16,7 +16,7 @@ function Part1() {
         <div className="row part1">
           <div className="col-10 mx-auto">
             <div className="row">
-              <div className="col-md-4 ">
+              <div className="col-sm-4 ">
                 <div className="heading ">
                   <h1 className="mob">Simplifying</h1>
                   <h1>healthcare logistics</h1>
@@ -42,7 +42,7 @@ function Part1() {
                 </div>
               </div>
 
-              <div className="col-lg-8  haeding-par">
+              <div className="col-sm-8  haeding-par">
                 <div className="box">
                   <Carousel>
                     <Carousel.Item>
@@ -57,9 +57,10 @@ function Part1() {
                   </Carousel>
                   <div className="quote">
                     <FormatQuoteIcon className="quotecolor" />
-                    We felt like we could'nt grow until we moved to biddano. Now
-                    we are encouraged to sell with them
-                    <p>-medplus</p>
+                    <p>We felt like we could'nt grow until we moved to biddano. Now
+                    we are encouraged to sell with them</p>
+                    <br></br>
+                    <p className="zig">-Medplus stores</p>
                   </div>
                 </div>
               </div>

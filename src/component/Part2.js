@@ -36,7 +36,7 @@ function Part2() {
                   we connect the business to profitable customers. we connect
                   local the business to profitable customers.
                 </p>
-                <div className="greybox offset-md-4 col-md-4 ">
+                <div className="greybox offset-sm-4 col-sm-4 ">
                   <div className="whitebox py-2">
                     <h3 className="dis">
                       <AddToQueueIcon className="iconpad" />

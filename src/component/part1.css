@@ -39,18 +39,26 @@ border-radius: 10px;;
 }
 .quotecolor{
     color:#42A175;
+    text-align:left;
+    margin-bottom: 90px;
+
 }
 .quote{
-    height: 130px;
+    height: 150px;
 width: 400px;
 border-radius: 10px;
-background-color: white;
+background-color:honeydew;
 display: flex;
 align-items: center;
-margin-top: -65px;
-z-index: -344px;
+position: absolute;
+margin: -8em;
+margin-left: -2em;
 
 
+}
+.zig{
+    color:#42A175;
+    text-align: right;
 }
 .part1{
     margin-bottom: 50px;
@@ -61,7 +69,20 @@ z-index: -344px;
      padding-top: 30px;
  }
 
- 
+.quote{
+    height: 130px;
+    width: 335px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin: -5em;
+    margin-left: 11em
+}
 
- 
+ .d-block{
+width:55%;
+margin:auto;
+ }
 }

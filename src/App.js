@@ -28,6 +28,7 @@ function App() {
       <Part3 />
       <Part4 />
       <Part5 />
+      <Footer/>
     </>
   );
 }
