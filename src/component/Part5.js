@@ -1,5 +1,5 @@
 import React from 'react';
-import './part5.css';
+import '../css/part5.css';
 import Img1 from '../img/forbes.png'
 import Img2 from '../img/dc.png';
 import Img3 from '../img/42.png';

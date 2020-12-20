@@ -1,6 +1,6 @@
 import React from 'react';
 import {} from 'react-bootstrap';
-import '../component/part1.css';
+import '../css/part1.css';
 import AppleIcon from '@material-ui/icons/Apple';
 import ShopIcon from '@material-ui/icons/Shop';
 import Carousel from 'react-bootstrap/Carousel';

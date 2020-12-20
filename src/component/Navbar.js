@@ -1,5 +1,5 @@
 import React from 'react';
-import '../component/navbar.css'
+import '../css/navbar.css';
 import { NavLink } from 'react-router-dom';
 import {NavDropdown } from 'react-bootstrap';
 

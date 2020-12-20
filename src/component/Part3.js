@@ -1,5 +1,5 @@
 import React from 'react';
-import './part3.css';
+import '../css/part3.css';
 import ExitToAppIcon from '@material-ui/icons/ExitToApp';
 import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
 import Logistic from './Logistics'

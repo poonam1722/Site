@@ -1,5 +1,5 @@
 import React from 'react'
-import './part2.css'
+import '../css/part2.css';
 import AddToQueueIcon from '@material-ui/icons/AddToQueue';
 import LocalPharmacyIcon from '@material-ui/icons/LocalPharmacy';
 function Part2() {

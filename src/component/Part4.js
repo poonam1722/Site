@@ -1,5 +1,5 @@
 import React from 'react';
-import './part4.css';
+import '../css/part4.css';
 import GolfCourseIcon from '@material-ui/icons/GolfCourse';
 import AppleIcon from '@material-ui/icons/Apple';
 import ShopIcon from '@material-ui/icons/Shop';

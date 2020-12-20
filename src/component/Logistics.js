@@ -1,5 +1,5 @@
 import React from 'react'
-import './logistics.css'
+import '../css/logistics.css';
 import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
 
 function Logistics() {
